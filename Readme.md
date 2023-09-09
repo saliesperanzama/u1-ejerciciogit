@@ -1,3 +1,3 @@
 Integrantes:
--Luna Padilla Luis Donaldo
--Guzman Gutierrez Jorge Alberto
+- Esperanza Machuca Sandra Lizbeth
+- Vazquez Carreon Victor Manuel
